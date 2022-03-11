@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(20, 20, 20);
+
+}
+h1{
+    color: rgb(10,151,233);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+h2{
+    color: rgb(10, 151, 233);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+h3{
+    color: rgb(10, 151, 233);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+ul{
+    list-style: none;
+}
+li{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ color: rgb(10, 151, 233);
+ font-size: 20px;
+}
