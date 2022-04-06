@@ -2,6 +2,7 @@
 Chester County High School
 
 Problem: Missing client info
+
 Fix: Unresolved
 
 --Joshua Green--
